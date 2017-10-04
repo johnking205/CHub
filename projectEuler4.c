@@ -1,3 +1,4 @@
+//Code used to solver Project Euler #4
 #include <stdio.h>
 #include <string.h>
 
